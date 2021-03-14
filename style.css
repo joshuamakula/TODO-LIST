@@ -74,4 +74,9 @@ form button:hover{
     border: none;
     padding: 1rem;
     cursor: pointer;
+    font-size: 1rem;
+}
+
+.complete-btn{
+    background: rgb(73, 204, 73);
 }
